@@ -24,6 +24,8 @@ author = 'Christopher H. Barker'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
+# need on newer(?) version of sphinx, so it wont' look for contents.rst
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
