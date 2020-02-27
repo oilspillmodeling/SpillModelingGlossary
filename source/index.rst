@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to the Oil Spill Modeling Glossary
 ##########################################
 
@@ -11,6 +12,7 @@ Introduction
 ============
 
 The oil spill modeling community has, over the years, developed particular uses for terms that are particular to oil spill modeling. Many of these terms have slightly different definitions in other fields, so it can be helpful to clearly define how they are used in oil spill modelin
+
 
 Glossary
 ========
