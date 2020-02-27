@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.com/oilspillmodeling/SpillModelingGlossary.svg?branch=master
+    :target: https://travis-ci.com/oilspillmodeling/SpillModelingGlossary
+
 #######################
 Spill Modeling Glossary
 #######################
