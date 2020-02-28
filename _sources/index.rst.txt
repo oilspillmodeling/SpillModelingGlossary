@@ -70,7 +70,62 @@ Spreading
 
 Spreading is the a term that usually refers to oil on the surface spreading out from a thick layer, when first released, to a thinner and thinner film or "sheen". Like "Dispersion", this use is a bit specific to oil spill modeling, as spreading can, in other fields, be used to mean "extend over a large or increasing area", which could be confused with transport mechanisms as well. The seminal work describing spreading is by Fay in 1971: (Fay, James A. "Physical Processes in the Spread of Oil on a Water Surface." Paper presented at the International Oil Spill Conference Proceedings, 1971) This work is often used as the basis for spreading algorithms still in use today.
 
+Surface Oil Terms
+=================
 
+The Following are some terms used to describe the appearance of oil on water.
+Note that spill characteristics appear differently under low light conditions and under strong winds conditions.
+Observations in an up-sun direction are typically difficult to interpret.
+New observers should be calibrated with experienced observers in order to make the proper distinctions between oil types and to properly identify natural phenomenon.
+
+Light Sheen
+-----------
+
+A light, almost transparent layer of oil. Sometime confused with windrows and natural sheen resulting from biological processes. Sometimes referred as transparent sheen. 
+
+Silver Sheen
+------------
+A slightly thicker layer of oil that appears silvery or shimmery. Occasionally called gray sheen. 
+
+Rainbow Sheen
+-------------
+
+Slightly thicker than silver sheet, a sheen that reflects colors due to being similar in thickness to the wavelength of visible light.
+
+Brown Oil
+---------
+
+Typically a 0.1 mm - 1.0 mm thick layer of water-in-oil emulsion. (thickness can vary widely depending on wind and current conditions). Maybe referred as heavy or dull colored sheens. 
+
+Mousse
+------
+
+Water-in-oil emulsion often formed as oil weathers: colors can range from orange or tan to dark brown. 
+
+Black Oil
+---------
+
+Area of black colored oil sometimes appearing with a latex texture. Often confused with kelp beds and other natural phenomenon. 
+
+Streamers
+---------
+
+Oil or sheen oriented in lines, windrows or streaks. Brown oil and mousse can be easily confused with algae scum collecting in convergence lines, algae patches, or mats of kelp or fucus. Sometimes called streaks, stringers or fingers. 
+
+Tarballs
+--------
+
+Weathered oil that has formed a pliable ball. Size may vary from pinhead to about 30 cm. Sheen may or may not be present. 
+
+Tar Mats
+--------
+
+Non-floating mats of oily debris (usually sediment and/or plant matter) that are found on beaches or just offshore. 
+
+Pancakes
+--------
+
+An isolated patch of oil shaped in a mostly circular fashion, pancakes can range in size from a few meters across to hundreds of meters in diameter. Sheen may or may not be present. 
 
 
 .. toctree::
