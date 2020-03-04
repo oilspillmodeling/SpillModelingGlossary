@@ -7,6 +7,8 @@
 Welcome to the Oil Spill Modeling Glossary
 ##########################################
 
+NOTE: this document is managed on gitHub here: https://github.com/oilspillmodeling/SpillModelingGlossary
+
 
 Introduction
 ============
