@@ -7,13 +7,13 @@
 Welcome to the Oil Spill Modeling Glossary
 ##########################################
 
-NOTE: this document is managed on gitHub here: https://github.com/oilspillmodeling/SpillModelingGlossary
+NOTE: this document is managed on gitHub here: https://github.com/oilspillmodeling/SpillModelingGlossary. Suggestions/contirbutions are more than welcome. Please post an Issue (for suggestions) or a Pull Request (for contributions).
 
 
 Introduction
 ============
 
-The oil spill modeling community has, over the years, developed particular uses for terms that are particular to oil spill modeling. Many of these terms have slightly different definitions in other fields, so it can be helpful to clearly define how they are used in oil spill modelin
+The oil spill modeling community has, over the years, developed particular uses for terms that are specific to oil spill modeling. Many of these terms have slightly different definitions in other fields, so it can be helpful to clearly define how they are used in the oil spill modeling community.
 
 
 Glossary
@@ -58,7 +58,7 @@ In the spill modeling community the term is usually used specifically for the wa
 Entrainment
 -----------
 
-Entrainment is used to describe the process of oil being broken into droplets, and mixed into the water. Usually used in the context of mixing into the near surface
+Entrainment is used to describe the process of oil being broken into droplets and mixed into the water column. Usually used in the context of mixing into the near surface by wave action. Entrainment can lead to :ref:`Dispersion`, though usually a range of droplet sizes are enrained, and only the smallest onces are considered "dispersed".
 
 
 Mousse
